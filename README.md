@@ -5,3 +5,5 @@
 ## How to Run
 
 From this folder:
+
+python customers.py
